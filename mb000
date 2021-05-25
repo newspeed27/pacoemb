@@ -13,7 +13,6 @@ echo
 cd $HOME
 while :; do
 clear
-echo -e $IMG5; echo
 echo -e "\e[01;37;41m      • RAJ, ESCOLHE UMA CARTA •      \e[0m"; sleep .5
 echo
 echo -e "\e[01;37m(1) \e[01;33mVerificar se você pode ganhar MB\e[0m"
